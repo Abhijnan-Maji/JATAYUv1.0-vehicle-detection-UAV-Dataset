@@ -1,6 +1,8 @@
 Advances in Unmanned Aerial Vehicle (UAV) technology require extensive vehicular datasets for a wide range of applications within Intelligent Transportation Systems. However, the existing datasets partially cover the real-world complexities and the representation of a wide variety of vehicle types prevalent in the traffic streams of developing countries. The "Joint Aerial dataset for deTection and trAcking of vehicles for road safetY and sUrveillance (JATAYU)" is introduced in this study to address these shortcomings. The dataset comprises varied vehicle classes across different Indian locales. The dataset categorizes vehicle types according to the Indian Highway Capacity Manual (Indo-HCM). The utility of this dataset spans the Indian subcontinent and Southeast Asian countries due to the presence of vehicles like auto-rickshaws, e-rickshaws, motorcycles, cycle-rickshaws, and tractor-trolleys in these regions. JATAYU contains 215,000 labeled objects with nearly 30,000 annotated images in ten vehicle classes. It includes day- time, night-time, and partially obscured vehicular aerial images.
 The UAV recorded images were captured from a height of 120 meters (maximum legal UAV flying altitude in most Indian cities), with camera towards Nadir point, over busy traffic locations (like roundabout, intersections, and highways) in various parts of India.
 
-To get more information about the dataset read this: https://ieeexplore.ieee.org/abstract/document/10677099
+To get more information about the dataset read this: https://ieeexplore.ieee.org/abstract/document/10677099 
+
 If you are using this dataset, cite the above document. 
+
 Dataset Download Link: https://drive.google.com/file/d/18-wfH-9kIUKQP5LWV39lTz6k24jW0aYF/view?usp=sharing
